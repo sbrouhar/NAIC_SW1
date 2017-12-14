@@ -22,7 +22,7 @@ public class MCP {
         // 0 through 9 should display on the console
         for (int i = 0; i<10; i++){
             //break;
-            System.out.println(i);//*** There was no semicolon
+            System.out.println(i);//*** There was no semicolon to end the statement.
         }
     }
 }
